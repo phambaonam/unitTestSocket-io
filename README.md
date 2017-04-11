@@ -1,5 +1,5 @@
 ## Viết Unit test socket-io
-* git clone
+* git clone https://github.com/Phambaonam/unitTestSocket-io.git
 * cd demoTestSocket-io
 * yarn install
 * npm test
