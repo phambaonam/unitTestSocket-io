@@ -1,3 +1,2 @@
 .idea/
-.idea/watcherTasks.xml
-.gitignore
+node_modules/
